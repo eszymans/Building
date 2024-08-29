@@ -1,0 +1,19 @@
+Start testing: Apr 03 17:15 CEST
+----------------------------------------------------------
+Unable to find executable: LibraryTester
+1/1 Testing: LibraryTest
+1/1 Test: LibraryTest
+Command: "" "--report_level=detailed" "--log_level=all" "--color_output=yes"
+Directory: /mnt/c/pobi/start/szymanska/workshop/build/library
+"LibraryTest" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"LibraryTest" end time: Apr 03 17:15 CEST
+"LibraryTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Apr 03 17:15 CEST

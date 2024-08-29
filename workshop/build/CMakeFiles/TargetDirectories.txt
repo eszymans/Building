@@ -1,0 +1,13 @@
+/mnt/c/pobi/start/szymanska/workshop/build/CMakeFiles/test.dir
+/mnt/c/pobi/start/szymanska/workshop/build/CMakeFiles/edit_cache.dir
+/mnt/c/pobi/start/szymanska/workshop/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/pobi/start/szymanska/workshop/build/library/CMakeFiles/Library.dir
+/mnt/c/pobi/start/szymanska/workshop/build/library/CMakeFiles/LibraryTester.dir
+/mnt/c/pobi/start/szymanska/workshop/build/library/CMakeFiles/check.dir
+/mnt/c/pobi/start/szymanska/workshop/build/library/CMakeFiles/test.dir
+/mnt/c/pobi/start/szymanska/workshop/build/library/CMakeFiles/edit_cache.dir
+/mnt/c/pobi/start/szymanska/workshop/build/library/CMakeFiles/rebuild_cache.dir
+/mnt/c/pobi/start/szymanska/workshop/build/program/CMakeFiles/Program.dir
+/mnt/c/pobi/start/szymanska/workshop/build/program/CMakeFiles/test.dir
+/mnt/c/pobi/start/szymanska/workshop/build/program/CMakeFiles/edit_cache.dir
+/mnt/c/pobi/start/szymanska/workshop/build/program/CMakeFiles/rebuild_cache.dir
