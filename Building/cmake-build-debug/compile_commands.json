@@ -1,0 +1,62 @@
+[
+{
+  "directory": "/mnt/c/Users/gosc/Documents/git_projekt_cv/repository/Building/cmake-build-debug",
+  "command": "/usr/bin/g++  -I/mnt/c/Users/gosc/Documents/git_projekt_cv/repository/Building/include -g -fdiagnostics-color=always -std=gnu++17 -o CMakeFiles/Kolokwium.dir/src/office.cpp.o -c /mnt/c/Users/gosc/Documents/git_projekt_cv/repository/Building/src/office.cpp",
+  "file": "/mnt/c/Users/gosc/Documents/git_projekt_cv/repository/Building/src/office.cpp"
+},
+{
+  "directory": "/mnt/c/Users/gosc/Documents/git_projekt_cv/repository/Building/cmake-build-debug",
+  "command": "/usr/bin/g++  -I/mnt/c/Users/gosc/Documents/git_projekt_cv/repository/Building/include -g -fdiagnostics-color=always -std=gnu++17 -o CMakeFiles/Kolokwium.dir/src/building.cpp.o -c /mnt/c/Users/gosc/Documents/git_projekt_cv/repository/Building/src/building.cpp",
+  "file": "/mnt/c/Users/gosc/Documents/git_projekt_cv/repository/Building/src/building.cpp"
+},
+{
+  "directory": "/mnt/c/Users/gosc/Documents/git_projekt_cv/repository/Building/cmake-build-debug",
+  "command": "/usr/bin/g++  -I/mnt/c/Users/gosc/Documents/git_projekt_cv/repository/Building/include -g -fdiagnostics-color=always -std=gnu++17 -o CMakeFiles/Kolokwium.dir/src/venue.cpp.o -c /mnt/c/Users/gosc/Documents/git_projekt_cv/repository/Building/src/venue.cpp",
+  "file": "/mnt/c/Users/gosc/Documents/git_projekt_cv/repository/Building/src/venue.cpp"
+},
+{
+  "directory": "/mnt/c/Users/gosc/Documents/git_projekt_cv/repository/Building/cmake-build-debug",
+  "command": "/usr/bin/g++  -I/mnt/c/Users/gosc/Documents/git_projekt_cv/repository/Building/include -g -fdiagnostics-color=always -std=gnu++17 -o CMakeFiles/Kolokwium.dir/src/flat.cpp.o -c /mnt/c/Users/gosc/Documents/git_projekt_cv/repository/Building/src/flat.cpp",
+  "file": "/mnt/c/Users/gosc/Documents/git_projekt_cv/repository/Building/src/flat.cpp"
+},
+{
+  "directory": "/mnt/c/Users/gosc/Documents/git_projekt_cv/repository/Building/cmake-build-debug",
+  "command": "/usr/bin/g++  -I/mnt/c/Users/gosc/Documents/git_projekt_cv/repository/Building/include -g -fdiagnostics-color=always -std=gnu++17 -o CMakeFiles/Kolokwium.dir/src/main.cpp.o -c /mnt/c/Users/gosc/Documents/git_projekt_cv/repository/Building/src/main.cpp",
+  "file": "/mnt/c/Users/gosc/Documents/git_projekt_cv/repository/Building/src/main.cpp"
+},
+{
+  "directory": "/mnt/c/Users/gosc/Documents/git_projekt_cv/repository/Building/cmake-build-debug",
+  "command": "/usr/bin/g++ -DBOOST_ALL_NO_LIB -DBOOST_UNIT_TEST_FRAMEWORK_DYN_LINK -I/mnt/c/Users/gosc/Documents/git_projekt_cv/repository/Building/include -g -fdiagnostics-color=always -std=gnu++17 -o CMakeFiles/TestProject.dir/test/master.cpp.o -c /mnt/c/Users/gosc/Documents/git_projekt_cv/repository/Building/test/master.cpp",
+  "file": "/mnt/c/Users/gosc/Documents/git_projekt_cv/repository/Building/test/master.cpp"
+},
+{
+  "directory": "/mnt/c/Users/gosc/Documents/git_projekt_cv/repository/Building/cmake-build-debug",
+  "command": "/usr/bin/g++ -DBOOST_ALL_NO_LIB -DBOOST_UNIT_TEST_FRAMEWORK_DYN_LINK -I/mnt/c/Users/gosc/Documents/git_projekt_cv/repository/Building/include -g -fdiagnostics-color=always -std=gnu++17 -o CMakeFiles/TestProject.dir/test/TestBuilding.cpp.o -c /mnt/c/Users/gosc/Documents/git_projekt_cv/repository/Building/test/TestBuilding.cpp",
+  "file": "/mnt/c/Users/gosc/Documents/git_projekt_cv/repository/Building/test/TestBuilding.cpp"
+},
+{
+  "directory": "/mnt/c/Users/gosc/Documents/git_projekt_cv/repository/Building/cmake-build-debug",
+  "command": "/usr/bin/g++ -DBOOST_ALL_NO_LIB -DBOOST_UNIT_TEST_FRAMEWORK_DYN_LINK -I/mnt/c/Users/gosc/Documents/git_projekt_cv/repository/Building/include -g -fdiagnostics-color=always -std=gnu++17 -o CMakeFiles/TestProject.dir/test/TestVenue.cpp.o -c /mnt/c/Users/gosc/Documents/git_projekt_cv/repository/Building/test/TestVenue.cpp",
+  "file": "/mnt/c/Users/gosc/Documents/git_projekt_cv/repository/Building/test/TestVenue.cpp"
+},
+{
+  "directory": "/mnt/c/Users/gosc/Documents/git_projekt_cv/repository/Building/cmake-build-debug",
+  "command": "/usr/bin/g++ -DBOOST_ALL_NO_LIB -DBOOST_UNIT_TEST_FRAMEWORK_DYN_LINK -I/mnt/c/Users/gosc/Documents/git_projekt_cv/repository/Building/include -g -fdiagnostics-color=always -std=gnu++17 -o CMakeFiles/TestProject.dir/src/office.cpp.o -c /mnt/c/Users/gosc/Documents/git_projekt_cv/repository/Building/src/office.cpp",
+  "file": "/mnt/c/Users/gosc/Documents/git_projekt_cv/repository/Building/src/office.cpp"
+},
+{
+  "directory": "/mnt/c/Users/gosc/Documents/git_projekt_cv/repository/Building/cmake-build-debug",
+  "command": "/usr/bin/g++ -DBOOST_ALL_NO_LIB -DBOOST_UNIT_TEST_FRAMEWORK_DYN_LINK -I/mnt/c/Users/gosc/Documents/git_projekt_cv/repository/Building/include -g -fdiagnostics-color=always -std=gnu++17 -o CMakeFiles/TestProject.dir/src/building.cpp.o -c /mnt/c/Users/gosc/Documents/git_projekt_cv/repository/Building/src/building.cpp",
+  "file": "/mnt/c/Users/gosc/Documents/git_projekt_cv/repository/Building/src/building.cpp"
+},
+{
+  "directory": "/mnt/c/Users/gosc/Documents/git_projekt_cv/repository/Building/cmake-build-debug",
+  "command": "/usr/bin/g++ -DBOOST_ALL_NO_LIB -DBOOST_UNIT_TEST_FRAMEWORK_DYN_LINK -I/mnt/c/Users/gosc/Documents/git_projekt_cv/repository/Building/include -g -fdiagnostics-color=always -std=gnu++17 -o CMakeFiles/TestProject.dir/src/venue.cpp.o -c /mnt/c/Users/gosc/Documents/git_projekt_cv/repository/Building/src/venue.cpp",
+  "file": "/mnt/c/Users/gosc/Documents/git_projekt_cv/repository/Building/src/venue.cpp"
+},
+{
+  "directory": "/mnt/c/Users/gosc/Documents/git_projekt_cv/repository/Building/cmake-build-debug",
+  "command": "/usr/bin/g++ -DBOOST_ALL_NO_LIB -DBOOST_UNIT_TEST_FRAMEWORK_DYN_LINK -I/mnt/c/Users/gosc/Documents/git_projekt_cv/repository/Building/include -g -fdiagnostics-color=always -std=gnu++17 -o CMakeFiles/TestProject.dir/src/flat.cpp.o -c /mnt/c/Users/gosc/Documents/git_projekt_cv/repository/Building/src/flat.cpp",
+  "file": "/mnt/c/Users/gosc/Documents/git_projekt_cv/repository/Building/src/flat.cpp"
+}
+]

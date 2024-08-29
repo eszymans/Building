@@ -1,0 +1,6 @@
+/mnt/c/Users/gosc/Documents/git_projekt_cv/repository/Building/cmake-build-debug/CMakeFiles/Kolokwium.dir
+/mnt/c/Users/gosc/Documents/git_projekt_cv/repository/Building/cmake-build-debug/CMakeFiles/TestProject.dir
+/mnt/c/Users/gosc/Documents/git_projekt_cv/repository/Building/cmake-build-debug/CMakeFiles/check.dir
+/mnt/c/Users/gosc/Documents/git_projekt_cv/repository/Building/cmake-build-debug/CMakeFiles/test.dir
+/mnt/c/Users/gosc/Documents/git_projekt_cv/repository/Building/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/gosc/Documents/git_projekt_cv/repository/Building/cmake-build-debug/CMakeFiles/rebuild_cache.dir
