@@ -1,1 +1,0 @@
-/usr/bin/g++ -g CMakeFiles/Kolokwium.dir/src/office.cpp.o CMakeFiles/Kolokwium.dir/src/building.cpp.o CMakeFiles/Kolokwium.dir/src/venue.cpp.o CMakeFiles/Kolokwium.dir/src/flat.cpp.o CMakeFiles/Kolokwium.dir/src/main.cpp.o -o Kolokwium 
